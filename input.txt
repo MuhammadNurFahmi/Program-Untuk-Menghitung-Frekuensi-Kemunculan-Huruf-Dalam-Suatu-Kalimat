@@ -1,0 +1,4 @@
+nama	= muhammad nur fahmi
+kelas	= ti.18.b.2
+nim	= 311810270
+jurusan = teknik informatika
